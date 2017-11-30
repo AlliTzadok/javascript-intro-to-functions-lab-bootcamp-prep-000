@@ -13,8 +13,6 @@ function logWhisper(string){
 
 var grandmaGoals = sayHiToGrandma()
 
-var grandmaGoals = sayHiToGrandma()
-
 if (grandmaGoals === 'hello'){
   return sayHiToGrandma.toLowerCase()
 else if (grandmaGoals === 'HELLO'){
