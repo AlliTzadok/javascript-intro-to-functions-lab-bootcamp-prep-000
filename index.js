@@ -15,4 +15,3 @@ var grandma = sayHiToGrandma(string)
 function sayHiToGrandma(string){
   return string.toLowerCase()
 }
-}
