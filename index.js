@@ -15,9 +15,9 @@ var grandmaGoals = sayHiToGrandma()
 
 var grandmaGoals = sayHiToGrandma()
 
-if (grandmaGoals === "hello"){
+if (grandmaGoals === 'hello'){
   return sayHiToGrandma.toLowerCase()
-else if (grandmaGoals === "HELLO"){
+else if (grandmaGoals === 'HELLO'){
   return sayHiToGrandma.toUpperCase(){
-  else return sayHiToGrandma('I love you, Grandma')
+  else return sayHiToGrandma("I love you, Grandma")
 }}}
