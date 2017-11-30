@@ -16,5 +16,5 @@ function sayHiToGrandma(string){
     return string("I can't hear you")}
     else if ("HELLO" == "hello".toUpperCase){
       return string("YES INDEED!")}
-      else return ("I love you, Grandma")
+      else return string("I love you, Grandma.")
 }
